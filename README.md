@@ -24,7 +24,7 @@ This project demonstrates a Security Information and Event Management (SIEM) set
 - Real-time log monitoring
 - Security alerts and rule-based detection
 - File integrity monitoring
-- Vulnerability detection (if enabled)
+- Vulnerability detection 
 
 ## What I Learned
 - SIEM architecture and components
