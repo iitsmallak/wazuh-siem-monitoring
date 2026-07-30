@@ -1,5 +1,6 @@
 # Wazuh SIEM Monitoring Project
 
+
 ## 📌 Overview
 This project demonstrates a Security Information and Event Management (SIEM) setup using Wazuh to monitor, detect, and analyze security events in a Linux environment.
 
@@ -29,7 +30,7 @@ This project demonstrates a Security Information and Event Management (SIEM) set
 ## Demo Video
 Watch the project demonstration: [Mallak SIEM](https://drive.google.com/file/d/1HvunqnNJ9ZEnRPZAoyyWMS373rNZPG4L/view?usp=drivesdk)
 
-Note : The video quality may not be optimal, but it provides a clear demonstration of the project workflow and functionality.
+Note ✉️ : The video quality may not be optimal, but it provides a clear demonstration of the project workflow and functionality.
 
 ## What I Learned
 - SIEM architecture and components
