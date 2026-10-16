@@ -1,7 +1,7 @@
-# Wazuh SIEM Monitoring Project
+## Wazuh SIEM Monitoring Project
 
 
-## 📌 Overview
+### 📌 Overview
 This project demonstrates a Security Information and Event Management (SIEM) setup using Wazuh to monitor, detect, and analyze security events in a Linux environment.
 
 ##  Objectives
